@@ -32,11 +32,13 @@ const Home = () => {
 
   return (
     <Container maxWidth='xs'>
+      <Typography variant='h5' gutterBottom>
+        Typeracer – the clone of Global Typing Competition
+      </Typography>
+      <Typography variant='body1' gutterBottom>
+        Increase your typing speed while racing against others
+      </Typography>
       <Paper elevation={10} style={{ padding: "20px" }}>
-        <Typography variant='h5' align='center'>
-          Type Racer Clone
-        </Typography>
-
         <FormGroup>
           <TextField
             label='Name'
