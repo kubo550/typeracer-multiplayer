@@ -1,6 +1,13 @@
 # Type Racer Multiplayer
 
-Description here
+Description here with preview images
+
+## Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)
+
 
 ## Getting Started with Create React App
 
