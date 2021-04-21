@@ -6,8 +6,11 @@ Description here with preview images
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)
+![Socket.io](https://img.shields.io/badge/-socket_io-05122A?style=flat&logo=socket.io)
 
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
+![Material](https://img.shields.io/badge/-Material_UI-05122A?style=flat&logo=material-ui)&nbsp;
+![Styled Components](https://img.shields.io/badge/-styled_components-05122A?style=flat&logo=styled-components)&nbsp;
 
 ## Getting Started with Create React App
 
